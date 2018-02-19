@@ -89,8 +89,6 @@ function axGetVersionInfo(gwid) {
     );
 };
 
-//let ver = await gapiAsync.version(5000);                              //Check gateway version - if gateway is not online(err), exit 
-
 /**
  * Gracefully shutdown the connection and logout of the account
  * 
