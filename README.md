@@ -4,7 +4,7 @@ Basic Nodejs example of using [Axiomware's](http://www.axiomware.com) [netrunr-g
 Program to illustrate Netrunr API functions. The program will perform the following functions: 1) connect to your account, 2) list all gateways associated with this account, 3) connect to the first gateway in the list, 4) open a network connection, 5) get version information from the gateway, and 6) exit program by closing connections and loging out of your account.
 
 ## SDK, Documentation and examples
-- [Netrunr B24C API Doucmentation](http://www.axiomware.com/apidocs/index.html)
+- [Netrunr B24C API Documentation](http://www.axiomware.com/apidocs/index.html)
 - [Netrunr-gapi SDK](https://github.com/axiomware/netrunr-gapi-js)
   - [List of Netrunr-gapi examples](https://github.com/axiomware/list-of-examples-netrunr-gapi)
 - [Netrunr-gapi-async SDK](https://github.com/axiomware/netrunr-gapi-async-js)
